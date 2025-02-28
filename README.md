@@ -1,6 +1,6 @@
 <H1>Hi 👋🏻</H1>
 
-I'm a final-year student Informatics Engineering who is passionately learning about user experience design
+I'm Pita, a passionate designer with strong emphasis on user experience
 <div id="header" align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nurpitaa.nurpitaa"/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=nurpitaa&style=flat-square&color=blue" alt=""/>
